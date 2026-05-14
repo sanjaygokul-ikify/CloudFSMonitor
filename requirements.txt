@@ -1,0 +1,2 @@
+cloud-storage-library==1.0.0
+notification-system-library==2.0.0
